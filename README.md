@@ -13,3 +13,6 @@ https://naat.operaking.in/
 
 Opera King Business
 https://operaking.in/
+
+islam-globe
+https://islam-globe.com/
